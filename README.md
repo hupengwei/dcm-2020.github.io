@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## IJCAI 2020 Workshop: Disease-Centric Computational Modeling
 
-You can use the [editor on GitHub](https://github.com/ijcai-2020-workshop-dccm/ijcai-2020-workshop-dccm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This workshop will be held in conjunction with [IJCAI 2020] (https://www.ijcai20.org/) in Yokohama, Japan.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Topics
 
-### Markdown
+In this workshop, we wish to address the fundamental chal-lenge of building disease-centric computational models based on advanced AI technologies. This calls for methods that can discover:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-	biological association for disease genotyping; 
+-	clinical representation for disease phenotyping; 
+-	probabilistic graph models for disease progression;
+-	disease-symptom models for screening or early diagnosis; 
+-	disease-drug models for optimal care patterns;
+-	embedding of medical concepts w./w.o. patient visits;
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ijcai-2020-workshop-dccm/ijcai-2020-workshop-dccm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+or other novel disease models that potentially put meaningful insights in healthcare.  
