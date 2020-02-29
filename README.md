@@ -26,6 +26,11 @@ Besides healthcare applications, there is still a huge space to uncover the dise
 
 or other novel disease models that potentially put meaningful insights in healthcare.  
 
+### Call For Papers
+
+We welcome original research papers no longer than 5 pages in total: 4 pages for the body of the paper (including all figures), plus up to one additional page with references that do not fit within the six body pages. Papers must be formatted according to  the [IJCAI guidelines](https://www.ijcai.org/authors_kit). Submissions should be in .pdf format.
+
+
 ### Organizers
 
 - Jing Mei (IBM Research)
@@ -60,8 +65,3 @@ To be announced
 - Xu Min (IBM Research China)
 - Yuan Zhang (IBM Research China) 
 - Bibo Hao (IBM Research China)
-
-
-### Call For Papers
-
-We welcome original research papers no longer than 5 pages in total: 4 pages for the body of the paper (including all figures), plus up to one additional page with references that do not fit within the six body pages. Papers must be formatted according to  the [IJCAI guidelines](https://www.ijcai.org/authors_kit). Submissions should be in .pdf format.
